@@ -6,7 +6,7 @@
 
 ## About Me
 
-Software Engineer with 3+ years of experience building scalable, high-performance web applications
+Software Engineer with 2+ years of experience building scalable, high-performance web applications
 for enterprise clients including **Johnson & Johnson** and **Vodafone**.
 
 Experienced across the full stack — from building responsive React interfaces to integrating REST
